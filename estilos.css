@@ -1,0 +1,96 @@
+
+*{
+    background-color: #66cdaa;
+}
+
+img.pamela_m{
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+}
+
+h1{
+    color: #2A1034;
+    background-color: #e6e6fa;
+    font-size: xx-large;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    padding: 1cm; 
+    border: 4px solid #744387;
+    float: right;
+    width: 80%;
+    margin: 0.2cm;
+    
+}
+
+h2{
+    display: grid;
+    background-size: auto;
+    background: #e6e6fa;
+    color: #9370db;
+    padding: 0.1cm;
+    text-decoration: solid;
+    text-size-adjust: auto;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0.1cm;
+}
+
+p{ 
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;;
+    font-size: medium;
+    font-weight: bold;
+    color: #000000;
+}
+
+ul{
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    color: #000000;
+}
+
+li{
+    list-style: circle;
+}
+
+.seccion_central{
+    width: auto;
+    border: 3px solid #744387;
+    padding: 0.2cm;
+    margin: 0.3cm;
+}
+
+.seccion_inferior{
+    width: auto;
+    border: 3px solid #744387;
+    padding: 0.2cm;
+    margin: 0.3cm;
+}
+
+#redes_sociales{
+    font-family: 'Roboto', sans-serif;
+}
+
+.link{
+    color: #2A1034;
+}
+
+
+
+
+/**.nav-enlace{
+    display: grid;
+    background-size: contain 80 px 100px;
+    background: #e6e6fa;
+    color: #9370db;
+    padding: 40 px 80 px;
+    text-decoration: solid;
+    text-size-adjust: auto;**/
+
+
+    
+
+
+
